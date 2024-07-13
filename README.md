@@ -13,9 +13,6 @@ Um aplicativo simples para visualizar a previsão do tempo usando a API do OpenW
 - JavaScript (ES6+)
 - API do OpenWeatherMap
 
-## Instalação
-
-Não é necessário instalação. Basta acessar o [Weather App](https://kappsdevs.github.io/weather-app/) pelo navegador para começar a utilizar.
 
 ## Contribuição
 
